@@ -1,4 +1,4 @@
-# GSP071
+# GSP072
 ### Run in cloudshell
 ```cmd
 bq query --use_legacy_sql=false \
